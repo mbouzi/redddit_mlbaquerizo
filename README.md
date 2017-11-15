@@ -1,5 +1,8 @@
+# Redddit
+(with 3 d's)
+
 This is a low functioning Reddit clone created in React.js
-You have the ability to view Reddit hot posts and their comments. It's like Reddit but without your input that no one asked for (kidding!).
+You have the ability to view Reddit hot posts and their comments.
 
 ## Getting started:
 
