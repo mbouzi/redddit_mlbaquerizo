@@ -6,7 +6,7 @@ You have the ability to view Reddit hot posts and their comments.
 
 ## Getting started:
 
-* Clone or download this repository. Locate the config.js file in the src directory and replace the placeholders with your Reddit API credentials.
+* Clone or download this repository.
 * run `npm install` and `npm start`
 * run `npm test` to run unit tests on components
 * Enjoy.
