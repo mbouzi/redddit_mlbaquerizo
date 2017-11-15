@@ -1,0 +1,124 @@
+#root {
+	margin: 10px;
+}
+
+.header {
+	border-bottom: 1px solid #797979;
+	font-family: monospace;
+}
+
+.header a {
+	text-decoration: none;
+	color: #901f76;
+}
+
+.article-list {
+	list-style: none;
+	margin: 0 auto;
+}
+
+.article-list-item {
+	margin: 0 10px;
+	padding-top: 10px;
+}
+
+.article-list-item:nth-child(odd){
+	background-color: #f5f5f5;
+}
+
+.article-list-item a {
+	text-decoration: none;
+	color: #5f6673;
+}
+
+.article-list-item p .small {
+	margin-left: 5px;
+}
+
+.article-upvotes {
+	font-size: 0.7em;
+	font-weight: bold;
+	color: #a5a3a3;
+}
+
+/* .article-thumbnail {
+	text-align: center;
+} */
+
+.article-thumbnail i {
+	font-size: 2.4em;
+	background: #a5a3a3;
+	border-radius: 2.4em;
+	padding: 0.3em;
+}
+
+.article-details {
+	line-height: 0.2em;
+}
+
+.article-details p:first-child{
+	line-height: 14px;
+}
+
+.pagination-container {
+	margin: 10px;
+	font-size: 0.8em;
+}
+
+.pagination-container a {
+	color: #901f76;
+	font-size: 0.9em;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 2px;
+	border: 1px solid #797979;
+	border-radius: 2px;
+	margin-left: 4px;
+}
+
+.comment-list-item {
+	margin-left: 20px;
+	display: grid;
+}
+
+.comment-list-item blockquote {
+	margin: 8px;
+	background-color: #f9f0f7;
+	border-left: 2px solid #8c7787;
+	padding: 3px 8px;
+}
+
+.comment-author {
+	font-weight: bold;
+	color: #901f76;
+}
+
+.comment-body .md{
+	font-size: 0.9em;
+	margin: 5px auto;
+}
+
+.md>:first-child{
+	margin-top: 0;
+}
+
+.md p {
+	line-height: 1.1em;
+	margin: 8px auto;
+}
+
+a, a:visted {
+	text-decoration: none;
+	color: red;
+}
+
+/** Helpers
+					  **/
+
+.small {
+	font-size: 0.7em;
+}
+
+.hidden {
+	display: none;
+}
