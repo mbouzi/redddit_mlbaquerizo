@@ -41,3 +41,5 @@ const ArticleListItem = ({article}) => {
 		</li>
 	)
 }
+
+export default ArticleListItem;
