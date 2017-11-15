@@ -10,7 +10,7 @@ You have the ability to view Reddit hot posts and their comments. It's like Redd
 
 ## Sending Feedback
 
-I appreciate [your feedback](https://github.com/mlbaquerizo/redddit/issues); I am still learning React.
+I appreciate [your feedback](https://github.com/mlbaquerizo/redddit_mlbaquerizo/issues); I am still learning React.
 
 ## Technologies
 
